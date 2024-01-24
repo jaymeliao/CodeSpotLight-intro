@@ -83,5 +83,3 @@ Authentication will be implemented using JWT tokens for user login and session m
 - Implement a search functionality for discovering specific projects.
 - Integrate notifications for user interactions.
 - Explore additional features based on user feedback.
-
-By following this roadmap, we aim to deliver a fully functional Spotling platform within the specified one-week timeframe. Additional features and refinements will be considered based on project progress and available time.
