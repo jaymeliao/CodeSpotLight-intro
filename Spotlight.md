@@ -4,7 +4,7 @@ CodeSpotlight
 
 ## Overview
 
-CodeSpotlightSpotlight is a social media platform designed specifically for developers to showcase their coding projects. Users can post short descriptions along with images or videos to highlight their work. The platform allows for engagement through comments, creating a community of developers sharing and appreciating each other's projects.
+CodeSpotlight is a social media platform designed specifically for developers to showcase their coding projects. Users can post short descriptions along with images or videos to highlight their work. The platform allows for engagement through comments, creating a community of developers sharing and appreciating each other's projects.
 
 ### Problem
 
