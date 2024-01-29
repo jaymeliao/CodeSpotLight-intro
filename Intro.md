@@ -43,5 +43,21 @@ Join CodeSpotlight today and take your coding projects to new heights. Stand out
 9. Charts: The UI should contain charts that display user engagement metrics such as likes, comments, and shares. The charts should be located in the notifications section and should be updated in real-time.
 
 10. Buttons: The UI should contain buttons for liking, commenting, sharing, and following users. The buttons should be located below each post and should be labeled with their respective actions.
+11. 
+Additional instructions:
+
+11. User Profile Pop-up: When a user clicks on another user's profile picture or username, a pop-up should appear displaying the user's profile picture, username, bio, and number of posts, likes, and comments. The pop-up should also contain buttons to follow or message the user.
+
+12. Infinite Scrolling: The home feed and explore sections should have infinite scrolling, meaning that new posts should load automatically as the user scrolls down the page.
+
+13. Post Options: When a user clicks on the three dots located in the top right corner of a post, a menu should appear with options to edit or delete the post.
+
+14. Notifications Settings: Users should be able to customize their notification settings by clicking on the "Settings" button located in the notifications section. The settings should allow users to choose which types of notifications they want to receive and how often they want to receive them.
+
+15. Dark Mode: The UI should have a dark mode option that can be toggled on or off by clicking on the moon icon located in the top right corner of the header. When dark mode is enabled, the background should be black and the text should be white.
+
+16. Error Messages: The UI should display error messages when a user tries to perform an action that is not allowed or when there is an error with the server. The error messages should be displayed in a pop-up and should provide clear instructions on how to resolve the issue.
+
+By following these additional instructions, the UI expert can create a comprehensive and user-friendly design for CodeSpotlight that meets the needs of its users.
 
 By following these instructions, a UI expert can design a complex combined UI for CodeSpotlight that is user-friendly and visually appealing.
